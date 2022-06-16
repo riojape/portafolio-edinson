@@ -20,16 +20,3 @@
     text-decoration: none;
     color: rgb(239, 69, 101);
 }
-
-@media (min-width: 992px) {
-    .contact h2, .contact p{
-        width: 70%;
-    }
-    .contact h2{
-        font-size: 6.4rem;
-        font-weight: 7.6rem;
-    }
-    .contact p{
-        font-size: 3.2rem;
-    }
-}

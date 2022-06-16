@@ -1,5 +1,6 @@
 import React from 'react';
 import './frame.css';
+import './desktop.css';
 
 function Frame (){
     return(

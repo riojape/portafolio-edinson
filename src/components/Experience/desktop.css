@@ -1,0 +1,15 @@
+
+@media (min-width: 992px){
+
+    .skillsAndTools{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .skillsAndTools, .experience-title, .card{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .skill{
+        margin-right: 30px;
+    }
+}
