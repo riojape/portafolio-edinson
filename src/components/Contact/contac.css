@@ -1,0 +1,35 @@
+.contact{
+    width: 100%;
+    padding: 64px 0;
+    background-color: rgb(20, 20, 20);
+}
+.contact h2{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 3.2rem;
+    color: rgb(255, 255, 255);
+}
+.contact p{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 32px;
+}
+.contact p a{
+    text-decoration: none;
+    color: rgb(239, 69, 101);
+}
+
+@media (min-width: 992px) {
+    .contact h2, .contact p{
+        width: 70%;
+    }
+    .contact h2{
+        font-size: 6.4rem;
+        font-weight: 7.6rem;
+    }
+    .contact p{
+        font-size: 3.2rem;
+    }
+}
